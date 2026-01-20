@@ -5,3 +5,4 @@ tre
 taslık
 teren
 taren
+tarenci
