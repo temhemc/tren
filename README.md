@@ -7,3 +7,4 @@ teren
 taren
 tarenci
 tazenci
+tareter
