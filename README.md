@@ -3,3 +3,4 @@ trenler
 trenci
 tre
 taslık
+teren
