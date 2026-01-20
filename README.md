@@ -8,3 +8,4 @@ taren
 tarenci
 tazenci
 tareter
+haret
