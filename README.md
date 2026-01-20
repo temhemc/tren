@@ -6,3 +6,4 @@ taslık
 teren
 taren
 tarenci
+tazenci
